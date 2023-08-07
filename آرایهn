@@ -1,0 +1,10 @@
+import random
+
+n = 10
+nu = random.randint(1 , n)
+num = nu
+num = [nu]
+print(num)
+num.append(random.randint (nu))
+print(num)
+
